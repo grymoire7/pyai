@@ -1,4 +1,4 @@
-* Just ask Alice
+# Just ask Alice
 
 This repo contains a simple script that allows you to ask questions of the book
 Alice's Adventures in Wonderland.
