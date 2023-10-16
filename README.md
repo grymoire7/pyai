@@ -1,13 +1,13 @@
 # Just ask Alice
 
 This repo contains a simple script that allows you to ask questions of the book
-Alice's Adventures in Wonderland.
+Alice's Adventures in Wonderland.  It is based on the workflow described in
+[this post](https://paragshah.medium.com/unlock-the-power-of-your-knowledge-base-with-openai-gpt-apis-db9a1138cac4).
 
 This script was developed and tested using Python 3.11.6 (3.12.x did not work).
 It also assumes a virtual environment (in `.python-version`) named 'vai311'.
 Once you've cloned the repo and have an appropriate version of python a virtual
 environment, try the following:
-
 
 ```bash
 pip install -r requirements.txt
